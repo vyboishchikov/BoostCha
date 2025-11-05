@@ -19,8 +19,10 @@ where *DIR* is a directory of XYZ input files. The `.xyz` file extension is obli
 
 **Output:** `.BoostCha-charges` files (one for each input XYZ file). They will be located in the same directory as the XYZ files.  
 
-**Python modules required:** `os`, `sys`, `Scipy`, `NumPy`, `CatBoost`.
-
 **Download** the [BoostCharge-generator.py](https://github.com/vyboishchikov/BoostCha/blob/main/BoostCharge-generator.py) Python code.
+
+**Files required:** [BoostCharge-generator-model-1.json](https://github.com/vyboishchikov/BoostCha/blob/main/BoostCharge-generator-model-1.json) and [BoostCharge-generator-model-2.json](https://github.com/vyboishchikov/BoostCha/blob/main/BoostCharge-generator-model-2.json) 
+
+**Python modules required:** `os`, `sys`, `Scipy`, `NumPy`, `CatBoost`.
 
 The paper is submitted.
