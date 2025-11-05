@@ -10,7 +10,7 @@
 <br> where <i>DIR</i> is a directory of XYZ input files. The <code>.xyz</code> file extension is obligatory.
 <p> <b>Output</b>: <code>.BoostCha-charges</code> files (one file for each input XYZ file). They will be located in the same directory as the XYZ files.
 <p> Python modules required: <code>os</code>, <code>sys</code>, <code>Scipy</code>, <code>NumPy</code>, <code>CatBoost</code>. </p>
-<p><p>Download BoostCharge-generator.py Python code <a href="https://github.com/vyboishchikov/AAA">here</a>.
+<p><p>Download BoostCharge-generator.py Python code <a href="https://github.com/vyboishchikov/BoostCha/blob/main/BoostCharge-generator.py">here</a>.
 
 <p><p>The paper is submitted.
 
